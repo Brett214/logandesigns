@@ -1,4 +1,4 @@
-baseURL = 'http://brettlogan.design/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Logan Designs'
 theme = 'hero'
