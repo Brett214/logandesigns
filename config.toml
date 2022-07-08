@@ -1,4 +1,5 @@
 baseURL = 'http://brettlogan.design/'
 languageCode = 'en-us'
 title = 'Logan Designs'
-theme = 'hero'
+theme = 'hugo-hero-theme'
+themesDir = 'themes'
