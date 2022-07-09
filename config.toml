@@ -1,5 +1,5 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Logan Designs'
-theme = 'hero'
-themesDir = 'themes'
+baseURL = "/"
+languageCode = "en-us"
+theme = "hero"
+themesDir = "themes"
+title = "Logan Designs"
