@@ -18,4 +18,5 @@ fields:
   name: heroBackground
   label: heroBackground
 pages:
+- content/amuse-bouche.md
 - content/services.md
