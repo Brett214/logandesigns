@@ -3,7 +3,7 @@ title: BIO
 date: 
 icon: ''
 featured: true
-heroHeading: Mergers & Acquisitions
+heroHeading: BIO
 heroSubHeading: Thinking of acquiring another business? Let us guide you through the
   process.
 heroBackground: services/service2.jpg
