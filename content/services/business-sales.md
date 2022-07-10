@@ -14,6 +14,12 @@ nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
 petu
 
-* • Complete interior design services:  
-* • 3D rendering and modeling:  Whether a quick preliminary design tool or a fully detailed deliverable for a client, these renderings are increasingly useful tools for visualization and communication.
-* • Construction management: Create budgets, engage trades and sequence them so that a quality product is delivered within the confines of the project schedule, on-site supervision to ensure quality and anticipate problems, and closeout project with punch list for contractors.  
+##### Complete interior design services:
+
+##### Construction management:
+
+Create budgets, engage trades and sequence them so that a quality product is delivered within the confines of the project schedule, on-site supervision to ensure quality and anticipate problems, and closeout project with punch list for contractors.  
+
+##### 3D rendering & modeling:  
+
+Whether a quick preliminary design tool or a fully detailed deliverable for a client, these renderings are increasingly useful tools for visualization and communication.
