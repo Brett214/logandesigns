@@ -1,5 +1,5 @@
 ---
-title: Services
+title: SERVICES
 date: 2018-11-28T15:15:26.000+10:00
 icon: ''
 featured: true
