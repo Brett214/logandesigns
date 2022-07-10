@@ -6,9 +6,6 @@ featured: true
 heroHeading: AMUSE BOUCHE
 heroSubHeading: An array of singular artistic and design solutions
 heroBackground: ''
-menu:
-  main:
-    weight: 4
 
 ---
 Definition: A complimentary bite-sized, savory portion served before a meal.
