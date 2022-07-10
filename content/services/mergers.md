@@ -1,17 +1,15 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+title: Mergers
+date: 2018-11-28T15:15:34.000+10:00
+icon: services/service-icon-4.png
 featured: true
-draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
----
+heroHeading: Mergers & Acquisitions
+heroSubHeading: Thinking of acquiring another business? Let us guide you through the
+  process.
+heroBackground: services/service2.jpg
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+---
+Testing one tow three
 
 ## Ne verba patulosque numen vix libet
 
@@ -37,12 +35,12 @@ Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+* Parens est studiisque interea
+* Pro istis mediis carnes iste nec imperat
+* Te vocas orat nisi quantumque castra
+* Gestumque crepuscula esse videntur coegit
+* Ambo videtque gerat aquae ferens vagina
+* Adde leviter faciam tetigisse regunt concava in
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
