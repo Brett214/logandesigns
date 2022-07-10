@@ -5,7 +5,7 @@ icon: ''
 featured: true
 heroHeading: AMUSE BOUCHE
 heroSubHeading: An array of singular artistic and design solutions
-heroBackground: services/service1.jpg
+heroBackground: INSIGHT
 
 ---
 Definition: A complimentary bite-sized, savory portion served before a meal.
