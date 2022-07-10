@@ -22,4 +22,4 @@ Create budgets, engage trades and sequence them so that a quality product is del
 
 ##### 3D rendering & modeling:  
 
-Whether a quick preliminary design tool or a fully detailed deliverable for a client, these renderings are increasingly useful tools for visualization and communication.
+Whether a quick preliminary design tool or a fully detailed deliverable, these types of renderings are increasingly useful tools for visualization and communication.
