@@ -1,9 +1,9 @@
 ---
-title: SERVICES
+title: ''
 date: 2018-11-28T15:15:26.000+10:00
 icon: ''
 featured: true
-heroHeading: Business Sales
+heroHeading: Services
 heroSubHeading: We can help value your business and prepare it for sale.
 heroBackground: services/service1.jpg
 
@@ -14,11 +14,6 @@ nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?
 
-* Dente reponere dixere referre excessitque seque
-* Tacui si cui inde haec ubi trepidas
-* Coniunx nulla aut
-
-## Geniti facinus praeruptam atris ab manus in
-
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
+* Complete interior design services:  
+* 3D rendering and modeling:  whether a quick preliminary design tool or a fully detailed deliverable for a client, these renderings are increasingly useful tools for visualization and communication.
+* Construction management: Create budgets, engage trades and sequence them so that a quality product is delivered within the confines of the project schedule, on-site supervision to ensure quality and anticipate problems, and closeout project with punch list for contractors.  
