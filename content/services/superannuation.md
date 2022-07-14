@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:54.000+10:00
 icon: ''
 featured: true
 heroHeading: AMUSE BOUCHE
-heroSubHeading: An array of singular artistic and design solutions
+heroSubHeading: An array of singular artistic endeavors and design solutions
 heroBackground: ''
 menu:
   main:
