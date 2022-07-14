@@ -9,5 +9,6 @@ heroSubHeading: 'An Interior Designer with expertise in residential and commerci
   Brett Logan has the skill to deliver projects that are not only beautiful but function
   well, whether the projects are large or small. '
 heroBackground: images/jason-blackeye-1191801-unsplash.jpg
+draft: true
 
 ---
