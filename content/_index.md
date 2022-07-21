@@ -9,7 +9,9 @@ heroSubHeading: "A highly creative Interior Designer and business owner with 20+
   needs, solid knowledge of building codes and materials, coupled with a vision of
   how materials go together, both structurally and aesthetically, Brett Logan has
   the skill to deliver projects that are not only beautiful but function well, whether
-  the projects are large or small. "
+  the projects are large or small. \n\nAreas of passion that influence the design
+  process include:  sustainability, ageing in place, accessibility and integrated
+  technology.  "
 heroBackground: images/jason-blackeye-1191801-unsplash.jpg
 draft: true
 
