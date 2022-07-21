@@ -9,17 +9,13 @@ heroBackground: services/service1.jpg
 
 ---
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petu
 
 ##### Complete interior design services:
 
 ##### Construction management:
 
-Create budgets, engage trades and sequence them so that a quality product is delivered within the confines of the project schedule, on-site supervision to ensure quality and anticipate problems, and closeout project with punch list for contractors.  
+Create budgets, engage trades and sequence them so that a quality product is delivered within the confines of the project schedule, on-site supervision to ensure quality and anticipate problems, and closeout project with punch list for contractors.
 
-##### 3D rendering & modeling:  
+##### 3D rendering & modeling:
 
-Whether a quick preliminary design tool or a fully detailed deliverable, these types of renderings are increasingly useful tools for visualization and communication.
+Whether a quick preliminary design or a fully detailed deliverable, renderings are an increasingly useful tool for visualization and communication for clients or on the job site.
